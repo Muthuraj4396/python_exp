@@ -1,0 +1,14 @@
+a=56894
+c=a//10000
+print(c)
+d=a%10000
+e=d//1000
+print(e)
+d=a%1000
+e=d//100
+print(e)
+d=a%100
+e=d//10
+print(e)
+d=a%10
+print(d)
